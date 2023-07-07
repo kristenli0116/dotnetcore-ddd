@@ -1,6 +1,7 @@
-﻿namespace Turakas.Domain.SharedKernel.Generics;
+﻿using System.Net.Mime;
 
-public interface IUnitOfWork<TKey> where TKey : class
+namespace Turakas.Domain.SharedKernel.Generics;
+
+public interface IUnitOfWork<TKey> : IUnitOfWork where TKey : IComparable<TKey>
 {
-    
 }
