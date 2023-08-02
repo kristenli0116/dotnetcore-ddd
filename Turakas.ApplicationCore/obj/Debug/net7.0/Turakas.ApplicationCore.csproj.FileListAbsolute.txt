@@ -1,0 +1,12 @@
+D:\CodeManager\VS\.netcore2ddd\Turakas.ApplicationCore\bin\Debug\net7.0\Turakas.ApplicationCore.deps.json
+D:\CodeManager\VS\.netcore2ddd\Turakas.ApplicationCore\bin\Debug\net7.0\Turakas.ApplicationCore.dll
+D:\CodeManager\VS\.netcore2ddd\Turakas.ApplicationCore\bin\Debug\net7.0\Turakas.ApplicationCore.pdb
+D:\CodeManager\VS\.netcore2ddd\Turakas.ApplicationCore\obj\Debug\net7.0\Turakas.ApplicationCore.csproj.AssemblyReference.cache
+D:\CodeManager\VS\.netcore2ddd\Turakas.ApplicationCore\obj\Debug\net7.0\Turakas.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeManager\VS\.netcore2ddd\Turakas.ApplicationCore\obj\Debug\net7.0\Turakas.ApplicationCore.AssemblyInfoInputs.cache
+D:\CodeManager\VS\.netcore2ddd\Turakas.ApplicationCore\obj\Debug\net7.0\Turakas.ApplicationCore.AssemblyInfo.cs
+D:\CodeManager\VS\.netcore2ddd\Turakas.ApplicationCore\obj\Debug\net7.0\Turakas.ApplicationCore.csproj.CoreCompileInputs.cache
+D:\CodeManager\VS\.netcore2ddd\Turakas.ApplicationCore\obj\Debug\net7.0\Turakas.ApplicationCore.dll
+D:\CodeManager\VS\.netcore2ddd\Turakas.ApplicationCore\obj\Debug\net7.0\refint\Turakas.ApplicationCore.dll
+D:\CodeManager\VS\.netcore2ddd\Turakas.ApplicationCore\obj\Debug\net7.0\Turakas.ApplicationCore.pdb
+D:\CodeManager\VS\.netcore2ddd\Turakas.ApplicationCore\obj\Debug\net7.0\ref\Turakas.ApplicationCore.dll

@@ -1,0 +1,15 @@
+D:\CodeManager\VS\.netcore2ddd\Turakas.Domain\bin\Debug\net6.0\Turakas.Domain.deps.json
+D:\CodeManager\VS\.netcore2ddd\Turakas.Domain\bin\Debug\net6.0\Turakas.Domain.dll
+D:\CodeManager\VS\.netcore2ddd\Turakas.Domain\bin\Debug\net6.0\Turakas.Domain.pdb
+D:\CodeManager\VS\.netcore2ddd\Turakas.Domain\bin\Debug\net6.0\Turakas.Domain.SharedKernel.dll
+D:\CodeManager\VS\.netcore2ddd\Turakas.Domain\bin\Debug\net6.0\Turakas.Domain.SharedKernel.pdb
+D:\CodeManager\VS\.netcore2ddd\Turakas.Domain\obj\Debug\net6.0\Turakas.Domain.csproj.AssemblyReference.cache
+D:\CodeManager\VS\.netcore2ddd\Turakas.Domain\obj\Debug\net6.0\Turakas.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeManager\VS\.netcore2ddd\Turakas.Domain\obj\Debug\net6.0\Turakas.Domain.AssemblyInfoInputs.cache
+D:\CodeManager\VS\.netcore2ddd\Turakas.Domain\obj\Debug\net6.0\Turakas.Domain.AssemblyInfo.cs
+D:\CodeManager\VS\.netcore2ddd\Turakas.Domain\obj\Debug\net6.0\Turakas.Domain.csproj.CoreCompileInputs.cache
+D:\CodeManager\VS\.netcore2ddd\Turakas.Domain\obj\Debug\net6.0\Turakas.Domain.csproj.CopyComplete
+D:\CodeManager\VS\.netcore2ddd\Turakas.Domain\obj\Debug\net6.0\Turakas.Domain.dll
+D:\CodeManager\VS\.netcore2ddd\Turakas.Domain\obj\Debug\net6.0\refint\Turakas.Domain.dll
+D:\CodeManager\VS\.netcore2ddd\Turakas.Domain\obj\Debug\net6.0\Turakas.Domain.pdb
+D:\CodeManager\VS\.netcore2ddd\Turakas.Domain\obj\Debug\net6.0\ref\Turakas.Domain.dll

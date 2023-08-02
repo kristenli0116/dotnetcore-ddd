@@ -1,0 +1,12 @@
+D:\CodeManager\VS\.netcore2ddd\Turakas.Common\bin\Debug\net7.0\Turakas.Common.deps.json
+D:\CodeManager\VS\.netcore2ddd\Turakas.Common\bin\Debug\net7.0\Turakas.Common.dll
+D:\CodeManager\VS\.netcore2ddd\Turakas.Common\bin\Debug\net7.0\Turakas.Common.pdb
+D:\CodeManager\VS\.netcore2ddd\Turakas.Common\obj\Debug\net7.0\Turakas.Common.csproj.AssemblyReference.cache
+D:\CodeManager\VS\.netcore2ddd\Turakas.Common\obj\Debug\net7.0\Turakas.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeManager\VS\.netcore2ddd\Turakas.Common\obj\Debug\net7.0\Turakas.Common.AssemblyInfoInputs.cache
+D:\CodeManager\VS\.netcore2ddd\Turakas.Common\obj\Debug\net7.0\Turakas.Common.AssemblyInfo.cs
+D:\CodeManager\VS\.netcore2ddd\Turakas.Common\obj\Debug\net7.0\Turakas.Common.csproj.CoreCompileInputs.cache
+D:\CodeManager\VS\.netcore2ddd\Turakas.Common\obj\Debug\net7.0\Turakas.Common.dll
+D:\CodeManager\VS\.netcore2ddd\Turakas.Common\obj\Debug\net7.0\refint\Turakas.Common.dll
+D:\CodeManager\VS\.netcore2ddd\Turakas.Common\obj\Debug\net7.0\Turakas.Common.pdb
+D:\CodeManager\VS\.netcore2ddd\Turakas.Common\obj\Debug\net7.0\ref\Turakas.Common.dll

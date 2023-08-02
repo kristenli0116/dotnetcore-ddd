@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0iXQ8B9bT5fF0W89tF8tUamlEM6PTS2HTx8wVWFHOBM=",
+  "Source": "Turakas.Web",
+  "BasePath": "_content/Turakas.Web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

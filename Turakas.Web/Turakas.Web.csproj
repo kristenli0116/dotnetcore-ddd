@@ -10,12 +10,18 @@
     <ItemGroup>
         <PackageReference Include="Microsoft.ApplicationInsights.AspNetCore" Version="2.15.0" />
         <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="6.0.16" />
-        <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="7.0.8" />
+        <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="7.0.9" />
+        <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="7.0.9">
+          <PrivateAssets>all</PrivateAssets>
+          <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+        </PackageReference>
+        <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="7.0.9" />
         <PackageReference Include="Microsoft.IdentityModel.Tokens" Version="6.31.0" />
         <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
     </ItemGroup>
 
     <ItemGroup>
+        <Folder Include="Configs\" />
         <Folder Include="obj\Debug\net6.0\" />
     </ItemGroup>
 
@@ -33,6 +39,14 @@
 
     <ItemGroup>
       <None Remove="obj\**" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\Turakas.ApplicationCore\Turakas.ApplicationCore.csproj" />
+      <ProjectReference Include="..\Turakas.Common\Turakas.Common.csproj" />
+      <ProjectReference Include="..\Turakas.Domain.Shared\Turakas.Domain.SharedKernel.csproj" />
+      <ProjectReference Include="..\Turakas.Domain\Turakas.Domain.csproj" />
+      <ProjectReference Include="..\Turakas.Infrastructure\Turakas.Infrastructure.csproj" />
     </ItemGroup>
 
 </Project>

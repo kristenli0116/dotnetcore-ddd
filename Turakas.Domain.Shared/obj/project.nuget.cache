@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "LdlP//Sr9ysLxZv0p79YYCYhBCN4HWbtcQDjbNgMIIl1dLcHMkI3YuTjAZBNCGfYOiSSnP2WdDm43xo8p1Kj0A==",
+  "success": true,
+  "projectFilePath": "D:\\CodeSpace\\VS\\.netcore2ddd\\Turakas.Domain.Shared\\Turakas.Domain.SharedKernel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Li Kexin\\.nuget\\packages\\mediatr\\12.0.1\\mediatr.12.0.1.nupkg.sha512",
+    "C:\\Users\\Li Kexin\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Li Kexin\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
